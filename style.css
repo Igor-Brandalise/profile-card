@@ -69,7 +69,10 @@ p {
 }
 
 .buttons {
+  display: flex;
+  justify-content: space-evenly;
   padding: 2em;
+  gap: 0.5em;
 }
 
 button.primary {
