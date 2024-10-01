@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #28223f;
+  background-color: #2b2153;
   font-family: Montserrat, sans-serif;
   display: flex;
   align-items: center;
@@ -13,10 +13,19 @@ body {
   flex-direction: column;
   min-height: 100vh;
   margin: 0;
+  
+}
+
+span{
+    color: purple;
 }
 
 h3 {
   margin: 10px 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  
 }
 
 h6 {
@@ -30,7 +39,7 @@ p {
 }
 
 .card-container {
-  background-color: #231e39;
+  background-color: #221e33;
   border-radius: 5px;
   box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.75);
   color: #b3b8cd;
