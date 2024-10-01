@@ -13,11 +13,10 @@ body {
   flex-direction: column;
   min-height: 100vh;
   margin: 0;
-  
 }
 
-span{
-    color: purple;
+span {
+  color: purple;
 }
 
 h3 {
@@ -25,13 +24,12 @@ h3 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 30px;
   font-weight: 600;
-  
 }
 
-.img{
-    display: flex;
-    justify-content: space-evenly;
-    padding: 1em;
+.img {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1em;
 }
 
 p {
@@ -70,24 +68,21 @@ p {
   padding: 7px;
 }
 
-.buttons{
-    padding: 2em;
+.buttons {
+  padding: 2em;
 }
 
 button.primary {
-	background-color: #03BFCB;
-	border: 1px solid #03BFCB;
-	border-radius: 3px;
-	color: #231E39;
-	font-family: Montserrat, sans-serif;
-	font-weight: 500;
-	padding: 10px 25px;
+  background-color: #03bfcb;
+  border: 1px solid #03bfcb;
+  border-radius: 3px;
+  color: #231e39;
+  font-family: Montserrat, sans-serif;
+  font-weight: 500;
+  padding: 10px 25px;
 }
 
 button.primary.ghost {
-	background-color: transparent;
-	color: #02899C;
+  background-color: transparent;
+  color: #02899c;
 }
-
-
-
